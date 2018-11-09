@@ -10,6 +10,7 @@
 /test/version_tmp/
 /tmp/
 dist
+.idea
 
 # Used by dotenv library to load environment variables.
 # .env
